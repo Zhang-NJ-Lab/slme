@@ -1,4 +1,4 @@
-# SL3ME
+# forked from https://github.com/ldwillia/SL3ME
 A Python3 implementation of the Spectroscopic Limited Maximum Efficiency (SLME) analysis of solar absorbers.
 
 Originally written and maintained by Logan Williams. Original code cleaned and made more efficient by Michael Waters prior to upload.
